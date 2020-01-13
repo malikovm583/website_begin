@@ -1,42 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/malikovm583/website_begin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` t
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malikovm583/website_begin/settings).<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
-$ cd toples.github.io
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-$ echo "Hello World"> index.html
-
+   ym(57006610, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/57006610" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Toples IT</title>
@@ -53,7 +31,11 @@ $ echo "Hello World"> index.html
 </head>
 
 <body>
- 
+ <script type="text/javascript">
+teasernet_blockid = 902403;
+teasernet_padid = 319071;
+</script>
+<script type="text/javascript" src="http://fejla.com/51me0b/fe7dc/49bb318.js"></script>
 <a name="ancre"></a>
 
 <!-- CACHE -->
